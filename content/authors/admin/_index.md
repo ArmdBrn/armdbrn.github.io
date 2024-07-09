@@ -1,59 +1,49 @@
 ---
 # Display name
-title: 吳健雄
+title: Armand Bernou
 
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
-
-# Status emoji
-status:
-  icon: ☕️
+first_name: Armand 
+last_name: Bernou
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Maitre de conférences
 
-# Organizations/Affiliations to show in About widget
+# Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+- name: Université Claude Bernard Lyon 1 - ISFA
+  url: "https://www.univ-lyon1.fr/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio:
+#
+#
+# -->
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+  - icon: envelope
+    url: 'mailto:armand.bernou@univ-lyon1.fr'
+  - icon: arxiv
+    url: https://arxiv.org/search/math?searchtype=author&query=Bernou%2C+A
+  - icon: ai/google-scholar
+    url: https://scholar.google.com/citations?user=mptWOpUAAAAJ&hl=fr
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
-  - icon: academicons/cv
-    url: uploads/resume.pdf
-    label: Download my resume
-  - icon: rss
-    url: ./post/index.xml
-    label: Subscribe to my blog via RSS feed
 
-# Highlight the author in author lists? (true/false)
-highlight_name: true
 
-# Author's website URL
-website: ""
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am Maitre de Conférences (~ Associate Professor) at Université Claude Bernard Lyon 1.
+
+My research focuses on problems originating from physics in which a stochastic component plays a key role. This randomness mostly originates from molecular behaviors, such as inter-collisions and interactions with the boundary in kinetic theory, from some extra microstructure, or from diffusive effects when studying nonlinear diffusions.
+Mathematically, the tools I use come mainly from probability theory (Harris theorem, coupling techniques, stochastic calculus) and from the theory of partial differential equations.
+
+Before moving to Lyon, I was a Civis3I Postdoctoral Fellow (part of the MSCA action) at University La Sapienza, under the supervision of [Alessandra Faggionato](https://www1.mat.uniroma1.it/people/faggionato/).
+Before that, I was a postdoc researcher at the LJLL (Sorbonne Université), under the supervision of [Mitia Duerinckx](http://homepages.ulb.ac.be/~mduerinc/) (FNRS) and [Antoine Gloria](https://www.ljll.math.upmc.fr/~gloria/index.html) (LJLL, SU).
+I studied for my PhD at the LPSM (Sorbonne Université) under the supervision of [Nicolas Fournier](https://www.lpsm.paris/pageperso/fournier/) (LPSM, Sorbonne Université) and
+ [Stéphane Mischler](https://www.ceremade.dauphine.fr/~mischler/index.html) (CEREMADE, Université Paris Dauphine).
